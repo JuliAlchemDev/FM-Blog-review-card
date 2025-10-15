@@ -1,0 +1,37 @@
+:root {
+  /* Colors */
+  --accent-clr: #f4d04e;
+  --text-accent-clr: #111111;
+  --text-clr: #6b6b6b;
+  --bg-clr: #ffffff;
+
+  /* Typography */
+  --line-height: 150%;
+  --letter-spacing: 0px;
+
+  --text-title: 24px;
+  --text-description: 16px;
+  --text-meta: 14px;
+
+  --text-bold: 800;
+  --text-normal: 500;
+ 
+  /* Spacing */
+  --spacing-50: 4px;
+  --spacing-100: 8px;
+  --spacing-150: 12px;
+  --spacing-300: 24px;
+}
+
+@font-face {
+    font-family: "Figtree";
+    src: url("./assets/fonts/static/Figtree-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Figtree";
+    src: url("./assets/fonts/static/Figtree-ExtraBold.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
