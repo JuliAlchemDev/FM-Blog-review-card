@@ -10,7 +10,7 @@ My second challenge on [Frontend Mentor](https://www.frontendmentor.io)
 ### Links
 
 - Solution URL: [GitHub](https://github.com/JuliAlchemDev/FM-Blog-review-card)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://fm-blog-review-card-julialchem.netlify.app)
 
 ## My process
 
